@@ -1,0 +1,7 @@
+{
+  "name": "Game Sage Hub",
+  "description": "An AI-powered guide for Genshin Impact and Wuthering Waves featuring a voice-activated chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

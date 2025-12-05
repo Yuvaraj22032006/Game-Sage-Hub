@@ -1,0 +1,132 @@
+
+i want to create a chatbot for game tutorial or hint based, with python, gemini, fastapi, html, css, javascript, a rag system which extracts data from a bunch of urls which are stored in the text file. the games are genshin impact and wuthering waves. i want the project to run when i press live server on the index.html.
+i want to have a website with multiple web pages, when i open it, it should be in the home page which has the message "Welcome to, Game Sage Hub", at the bottom-right-corner i have to have the sage icon where it opens the chatbot and when i press it again it closes, i want it to have speech recognition system to type the words said through mic and when i ask it to go to a character or weapon or something like that it should go to the web page within the website. At the top-left-corner i want to have a menu option of three line, when i click it, it should open a menu list. the menu contains the top-left-corner a cross symbol which exits the menu, menu list is Home, Genshin Impact, Wuthering Waves, About Us, and at the bottom of the menu I need the account details with username, with sign-in and sign-up options. when i press sign-in or sign-up i want to go the registration or login screen where we have enter e-mail or username, password or login through google, i want to create a database to store the account data.
+In menu, when i press Home, it goes to the home page.
+In menu, when i press Genshin Impact, i want it open a list of options named characters, weapons, artifacts sets, quests, regions.
+when i press characters, it leads to the characters page where it has the list of characters categorized as 4-star and 5-star where we have number of 4-star characters is 47 and 5-star is 60, where we have 6 characters per row with images and names, when i press on the character it leads to that character page, which has a different image on the right and on the left it has the description of name, element, type of weapon, and at the end of it i want it to have a more details option which leads to the fandom page.
+when i press weapons, it leads to the weapons page where it has the list of weapons categorized as 1-star, 2-star, 3-star, 4-star and 5-star where we have number of 1-star is 5, 2-star is 5, 3-star is 27, 4-star is 131 and 5-star is 62, where we have 6 weapons per row with images and names, when i press on the weapon it leads to that weapon page, which has the image on the right and on the left it has the description of name, main-stat, sub-stat, and at the end of it i want it to have a more details option which leads to the fandom page.
+when i press artifact sets, it leads to the artifacts sets page where it has the list of artifacts sets categorized as 1-star, 2-star, 3-star, 4-star and 5-star where we have number of 1-star is 4, 2-star is 3, 3-star is 17, 4-star is 54 and 5-star is 40, where we have 6 artifact sets per row with images and names, when i press on the artifact set it leads to that artifact set page, which has 5 images of the artifacts in that set at the top, and at the end of it i want it to have a more details option which leads to the fandom page.
+when i press quests, it leads to the quests page where it has the list of quests categorized as Archon quest, story quests where we have number of archon quest is 37, story quest is 60, when i press on the name of the quest it leads to the fandom page.
+when i press regions, it leads to the regions page where it has the list of regions, where total number of regions is 6, when i press on the name of the region it leads to the fandom page.
+In menu, when i press wuthering waves, i want it open a list of options named characters, weapons, echoes, quests, regions.
+when i press characters, it leads to the characters page where it has the list of characters categorized as 4-star and 5-star where we have number of 4-star characters is 11 and 5-star is 29, where we have 6 characters per row with images and names, when i press on the character it leads to that character page, which has a different image on the right and on the left it has the description of name, element, type of weapon, and at the end of it i want it to have a more details option which leads to the fandom page.
+when i press weapons, it leads to the weapons page where it has the list of weapons categorized as 1-star, 2-star, 3-star, 4-star and 5-star where we have number of 1-star is 5, 2-star is 5, 3-star is 21, 4-star is 43 and 5-star is 29, where we have 6 weapons per row with images and names, when i press on the weapon it leads to that weapon page, which has the image on the right and on the left it has the description of name, main-stat, sub-stat, and at the end of it i want it to have a more details option which leads to the fandom page.
+when i press echoes, it leads to the echoes page where it has the list of echoes categorized as common, elite, overlord, calamity where we have number of common is 63, elite is 36, overlord is 26, and calamity is 7, where we have 6 echoes per row with images and names, when i press on the name of the echo it leads to the fandom page.
+when i press quests, it leads to the quests page where it has the list of quests categorized as main quest, side quests, exploration quests where we have number of main quest is 28, side quest is 100, exploration quest is 28 when i press on the name of the quest it leads to the fandom page.
+when i press regions, it leads to the regions page where it has the list of regions, where total number of regions is 30, when i press on the name of the region it leads to the fandom page.
+In the menu, when i press About us it leads to a page where i have the photos, names, USNs of my 4 team members and at the bottom i have my e-mail and contact no.
+i want all the web pages to have the back arrow which leads to previous page, float shadow hovering effects for all the options and i want all the web pages to have menu button and chatbot, the links to fandom page are in the knowledge base.
+
+in my zip file the characters images are divided into 2, 1st image is for the list web page and 2nd image is for individual character. for weapons both list and individual same image. for artifacts it is divided into 6, 1st image is for list page and other 5 images are for the individual artifact set, when i press the artifact set in the list page it leads to list of 5 images in a row of that set. for echoes when i press the echo on the list page it directly leads fandom page. i want simple html templates for characters, weapons, quests, etc which loads the data from json files.
+
+get the html codes more vibraint which can be good looking, like the about us page make the images of the 4 members in the center in a row which the image frame is a circle, under that name and usn, at the bottom of the screen the contact details, like that do it for the sign-in and sign-up pages and the chatbot a bit more good looking, and i have two background images, i want the images to shift for every 10seconds in the home page, when i open it with live server through index.html i want it to open home page, i want the website to be good looking with good border curves nice hovering and all. If you want you can give me the project in multi-message. and ask me opinions on the project the beginning what and all suggestions are there to modify my data. the above zip-file contains my demo-project do the project according to it, get me a step-by-step process how to store api_key, execution, with file-names and file structure. link the files to index.html and main.py for a smooth execution from the live server.
+
+
+
+get the html codes more vibrainte which can be good looking, like the about us page make the images of the 4 members in the center in a row which the image frame is a circle, under that name and usn, at the bottom of the screen the contact details, like that do it for the sign-in and sign-up pages and the chatbot a bit more good looking, and i'm not getting a correct dropdown in the menu, i need to get the dropdown in the menu so that it guides me through it, i'm unable to load the character pages or the other pages, i'm not getting the background and when i start the code i should be in the home page , the menu option should be in the top-left corner. 
+
+
+
+
+
+
+
+
+Here is the step-by-step guide:
+1. Prerequisites
+Ensure you have Node.js installed. You can download it from nodejs.org.
+2. Create the Project
+Open your terminal (Command Prompt or VS Code Terminal) and run the following commands:
+code
+Bash
+# Create a new project using Vite with React and TypeScript
+npm create vite@latest game-sage-hub -- --template react-ts
+
+# Navigate into the folder
+cd game-sage-hub
+
+# Install the required dependencies used in the code
+npm install react-router-dom lucide-react @google/genai
+
+
+3. Organize the Files
+Open the game-sage-hub folder in VS Code (code .).
+Inside the src/ folder, delete the default files (like App.css, App.tsx, index.css, etc.) but keep main.tsx (or index.tsx) and vite-env.d.ts.
+Create the files I provided in the previous response inside the src/ folder.
+src/App.tsx
+src/data.ts
+src/types.ts
+src/services/geminiService.ts
+src/components/Chatbot.tsx
+src/components/Layout.tsx
+src/pages/Home.tsx
+src/pages/CategoryList.tsx
+src/pages/ItemDetail.tsx
+src/pages/AboutUs.tsx
+src/pages/Auth.tsx
+Update index.html:
+Copy the <script src="https://cdn.tailwindcss.com"></script> and the font links from the index.html I provided into the index.html located in your project root (not src).
+4. Important: Fix the API Key
+Vite handles environment variables differently than the provided code (process.env).
+Create a file named .env in the root folder (next to package.json).
+Add your Gemini API Key:
+code
+Env
+VITE_API_KEY=your_actual_api_key_here
+Update src/services/geminiService.ts:
+Change this line:
+code
+TypeScript
+// Old
+const apiKey = process.env.API_KEY || 'YOUR_API_KEY_HERE';
+
+// New (Vite compatible)
+const apiKey = import.meta.env.VITE_API_KEY || 'YOUR_API_KEY_HERE';
+5. Run the App
+Back in your terminal, run:
+code
+Bash
+npm run dev
+VS Code will provide a localhost link (usually http://localhost:5173). Ctrl+Click that link to open your Game Sage Hub in the browser.
+
+
+
+ Where to place Image Files & How to import them
+For a data-heavy file like src/data.ts, importing images one by one (e.g., import img from './assets/img.png') can make the file very cluttered. The best approach is to use the Public Folder method.
+Step 1: Place the Files
+Create a folder named public in your project root if it doesn't exist.
+Inside public, create a folder named images.
+Drop your character/weapon images there (e.g., mualani.jpg, kinich.png).
+Step 2: Reference them in data.ts
+You can refer to files in the public folder using absolute string paths. You do not need to use the import keyword.
+Update your src/data.ts like this:
+code
+TypeScript
+// Old way (Placeholder)
+// image: getImg(150, 150, 'mualani'),
+
+// New way (Local File)
+// Assuming you put mualani.jpg inside public/images/
+image: '/images/mualani.jpg',
+Example Update for src/data.ts:
+code
+TypeScript
+export const genshinCharacters: Character[] = [
+  {
+    id: 'mualani',
+    name: 'Mualani',
+    rarity: Rarity.FIVE_STAR,
+    element: 'Hydro',
+    weaponType: 'Catalyst',
+    // Path starts with / which points to the public folder
+    image: '/images/mualani.jpg', 
+    detailImage: '/images/mualani-full.jpg',
+    description: '...',
+    moreDetailsUrl: '...'
+  },
+  // ... other characters
+];
+This method keeps your data.ts clean and makes it easy to manage hundreds of images.
+
+
+
