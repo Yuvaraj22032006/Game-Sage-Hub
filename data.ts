@@ -3526,8 +3526,8 @@ export const wutheringRegions: Region[] = [
 ];
 
 export const teamMembers = [
-  { name: 'Vrushank M', usn: '1ST23CS219', img: '/images/about/vrushank.jpg' },
-  { name: 'Yuvaraj M', usn: '1ST23CS224', img: '/images/about/yuvaraj.jpg' },
-  { name: 'Vishwanath U', usn: '1ST23CS218', img: '/images/about/vishwanath.jpg' },
-  { name: 'Yashwanth O', usn: '1ST23CS223', img: '/images/about/yashwanth.jpg' },
+  { name: '', usn: '', img: '/images/about/.jpg' },
+  { name: '', usn: '', img: '/images/about/.jpg' },
+  { name: '', usn: '', img: '/images/about/.jpg' },
+  { name: ' ', usn: '', img: '/images/about/.jpg' },
 ];
